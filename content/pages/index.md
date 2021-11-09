@@ -191,16 +191,6 @@ sections:
           **[Twitter](https://twitter.com/)**
         image_alt: Speaker 5 photo
         image_position: top
-      - title: Hugh Millie-Yate
-        subtitle: 'Random CMS, Sweden'
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
-          scelerisque interdum ante. Duis tincidunt id purus sit amet malesuada.
-
-
-          **[Twitter](https://twitter.com/)**
-        image_alt: Speaker 7 photo
-        image_position: top
     grid_cols: four
     grid_gap_horiz: medium
     grid_gap_vert: large
