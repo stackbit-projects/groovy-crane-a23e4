@@ -142,7 +142,7 @@ sections:
   - type: cta_section
     title: JOIN OUR GROUP
     actions:
-      - label: Start
+      - label: Star
         url: /thank-you
         style: primary
         has_icon: true
