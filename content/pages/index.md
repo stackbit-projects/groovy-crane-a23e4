@@ -142,7 +142,7 @@ sections:
   - type: cta_section
     title: JOIN OUR GROUP
     actions:
-      - label: Star
+      - label: Start making MOney
         url: /thank-you
         style: primary
         has_icon: true
