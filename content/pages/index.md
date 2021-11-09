@@ -131,7 +131,7 @@ sections:
           five other cryptocurrencies to both deposit funds and cash out.
           Players choose CasinoChan because it offers good terms and is a smart
           choice.
-        image: images/feature-3.jpg
+        image: /images/casinochan-grey.jpg
         image_alt: Feature 3 placeholder image
         media_position: right
         media_width: sixty
