@@ -35,7 +35,8 @@ sections:
         image_width: twenty-five
       - title: TỶ LỆ HOA HỒNG CAO
         title_align: left
-        content: Two tracks conference for curious developers.
+        content: |
+          Nhận hoa hồng lên đến 50% từ mỗi khách hàng
         content_align: left
         image: images/2-tracks.svg
         image_alt: Section item 2 icon
