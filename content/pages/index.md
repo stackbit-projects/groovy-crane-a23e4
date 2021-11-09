@@ -190,7 +190,7 @@ sections:
 
 
           **[Twitter](https://twitter.com/)**
-        image: /images/www.1xSlot.live-6b63366c.png
+        image: /images/Promotion-hot-100k.jfif
         image_alt: Speaker 3 photo
         image_position: top
       - title: Penny Tool
