@@ -11,7 +11,7 @@ sections:
       *   Nhận tiền hoa hồng lên đến 550% khi giới thiệu khách hàng
     actions:
       - label: Join today
-        url: /about
+        url: /
         style: primary
     align: center
     padding_top: large
