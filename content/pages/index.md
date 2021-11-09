@@ -118,11 +118,19 @@ sections:
         media_position: left
         media_width: sixty
       - title: Casinochan
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
-          elit at nibh ultrices, molestie ullamcorper leo sodales. Pellentesque
-          vehicula ut ipsum sed sodales. Integer finibus scelerisque leo et
-          semper.
+        content: >
+          CasinoChan offers a breathtaking selection of top-notch games from the
+          finest gaming software providers, including the biggest names in the
+          industry. CasinoChan works hard to impress players and keep them
+          happy, offering a total of four bonuses within its bonus package, a
+          lucrative VIP program, as well as regular tournaments, and tremendous
+          additional bonus opportunities. Here, players can bet using local
+          currencies, view special region-based promotions, and use
+          region-specific payment methods with no additional fees. Another fact
+          worth mentioning about CasinoChan is that players can use Bitcoin and
+          five other cryptocurrencies to both deposit funds and cash out.
+          Players choose CasinoChan because it offers good terms and is a smart
+          choice.
         image: images/feature-3.jpg
         image_alt: Feature 3 placeholder image
         media_position: right
