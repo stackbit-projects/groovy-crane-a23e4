@@ -140,7 +140,7 @@ sections:
     padding_top: none
     background_color: none
   - type: cta_section
-    title: THAM GIA NHÓM CỦA CHÚNG TÔI
+    title: JOIN OUR GROUP
     actions:
       - label: Get tickets
         url: /thank-you
