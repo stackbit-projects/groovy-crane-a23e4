@@ -157,7 +157,7 @@ sections:
     background_image: images/cta-background.png
     background_image_opacity: 50
   - type: grid_section
-    title: Speakers & Instructors
+    title: Free bonus
     subtitle: Fantastic lineup of experts!
     grid_items:
       - title: Eric Widget
