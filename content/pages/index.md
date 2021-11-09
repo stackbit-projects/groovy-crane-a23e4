@@ -113,7 +113,7 @@ sections:
           live games with professional dealers from the world's most luxurious
           casinos are also there. Taken together, this ensures that Betamo
           players stay safe and satisfied.
-        image: images/feature-2.jpg
+        image: /images/betamo.png
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: sixty
