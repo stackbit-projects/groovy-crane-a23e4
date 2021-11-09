@@ -158,7 +158,7 @@ sections:
     background_image_opacity: 50
   - type: grid_section
     title: Free betting bonus
-    subtitle: Fantastic lineup of experts!
+    subtitle: Promotions
     grid_items:
       - title: Eric Widget
         subtitle: 'React Awesome, USA'
