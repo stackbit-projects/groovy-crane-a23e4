@@ -10,7 +10,7 @@ sections:
 
       *   Nhận tiền hoa hồng lên đến 550% khi giới thiệu khách hàng
     actions:
-      - label: Get Your Ticket Today!
+      - label: /sign-up
         url: /about
         style: primary
     align: center
