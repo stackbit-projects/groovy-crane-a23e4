@@ -179,7 +179,7 @@ sections:
 
 
           **[Twitter](https://twitter.com/)**
-        image: /images/nhat-ky-ca-cuoc-wan.png
+        image: /images/Promotion-50k.jfif
         image_alt: Speaker 2 photo
         image_position: top
       - title: Indigo Violet
