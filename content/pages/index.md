@@ -11,7 +11,7 @@ sections:
       *   Nhận tiền hoa hồng lên đến 550% khi giới thiệu khách hàng
     actions:
       - label: Join today
-        url: /
+        url: 'http://affiliate.1xslot.live/'
         style: primary
     align: center
     padding_top: large
