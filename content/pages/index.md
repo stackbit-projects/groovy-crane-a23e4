@@ -96,10 +96,23 @@ sections:
         media_position: right
         media_width: sixty
       - title: BetAmo
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
-          elit at nibh ultrices, molestie ullamcorper leo sodales. Pellentesque
-          vehicula ut ipsum sed sodales. Integer finibus scelerisque leo et.
+        content: >
+          Betamo is a fully licensed and regulated casino that offers players an
+          enthralling and secure universe of boundless gambling. The casino
+          greets players with a welcome package and it makes sure every player
+          is excited to continue playing by bringing weekly reload bonuses,
+          daily races, and individual promos to the table. Knowing that
+          lotteries are somewhat of a modern craze among gamblers, Betamo offers
+          them on a regular basis as well. The casino makes sure every player is
+          kept fully entertained and excited throughout their playing
+          experience. Betamo holds an EU online gambling operator license from
+          the Malta Gaming Authority. This is one of the most prestigious
+          licenses an online casino can receive. Betamo’s game library has over
+          3,000 titles for players to pick from. One can always count on having
+          full access to the latest slots by top providers. Incredibly realistic
+          live games with professional dealers from the world's most luxurious
+          casinos are also there. Taken together, this ensures that Betamo
+          players stay safe and satisfied.
         image: images/feature-2.jpg
         image_alt: Feature 2 placeholder image
         media_position: left
