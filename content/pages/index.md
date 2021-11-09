@@ -44,7 +44,8 @@ sections:
         image_width: twenty-five
       - title: KHÔNG SỐ DƯ ÂM
         title_align: left
-        content: Best in the field speakers and instructors.
+        content: |
+          Vào cuối tháng, số dư âm sẽ được khôi phục về 0
         content_align: left
         image: images/20-speakers.svg
         image_alt: Section item 3 icon
