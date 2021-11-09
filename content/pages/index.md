@@ -157,7 +157,7 @@ sections:
     background_image: images/cta-background.png
     background_image_opacity: 50
   - type: grid_section
-    title: Free bonus
+    title: Free betting bonus
     subtitle: Fantastic lineup of experts!
     grid_items:
       - title: Eric Widget
