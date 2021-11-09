@@ -3,7 +3,9 @@ title: Home
 sections:
   - type: hero_section
     title: KIẾM TIỀNCÙNG CHÚNG TÔI
-    subtitle: Conference for Creative People
+    subtitle: >-
+      Đăng kýGiới thiệu người dùng mới đến 1xSlotsNhận tiền hoa hồng lên đến 45%
+      khi giới thiệu khách hàng
     content: '**April 14 - 16, 2021**'
     actions:
       - label: Get Your Ticket Today!
