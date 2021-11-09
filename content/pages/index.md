@@ -72,10 +72,25 @@ sections:
   - type: features_section
     features:
       - title: BETCHAN
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
-          elit at nibh ultrices, molestie ullamcorper leo sodales. Vehicula ut
-          ipsum sed sodales. Integer finibus scelerisque leo et semper.
+        content: >
+          Having launched in 2015, BetChan Casino is a well-established brand
+          that provides an excellent service to its users. This online casino’s
+          most important priority is to provide its players with an unbeatable
+          gambling experience! The casino offers a wide variety of casino and
+          live table games that players all around the world can enjoy
+          risk-free. Sounds cool, right? It has more than 2000 slot games from
+          all top gaming providers, such as NetEnt, B-Gaming, Amatic,
+          Microgaming, and many others. Recently, Betchan introduced a new cool
+          feature – 11% cashback for every player every week. That promotion
+          will definitely attract even more gamblers, because cashback has no
+          upper limit and no wager. Players’ satisfaction also comes from the
+          unique gaming experience presented on the casino website, helpful
+          customer support agents, and super fast payments. Betchan players can
+          also find rare casino games that you will not find anywhere else.
+          Betchan is website that provides best of both sides - instant and
+          secure deposits from wide range of payment systems, and also fast and
+          most efficient withdrawals. So what you are waiting for? Real money
+          gaming.
         image: /images/betchan.jpg
         image_alt: Feature 1 placeholder image
         media_position: right
