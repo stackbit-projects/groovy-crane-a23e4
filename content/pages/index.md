@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: 1xSlot
-    content: '**April 14 - 16, 2021**'
+    content: "*   Đăng ký\r\n\n*    Giới thiệu người dùng mới đến 1xSlots\r\n\n*   Nhận tiền hoa hồng lên đến 45% khi giới thiệu khách hàng\r"
     actions:
       - label: Get Your Ticket Today!
         url: /about
