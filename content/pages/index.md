@@ -8,7 +8,7 @@ sections:
 
       *   Giới thiệu người dùng mới đến 1xSlot
 
-      *   Nhận tiền hoa hồng lên đến 550% khi giới thiệu khách hàng
+      *   Nhận tiền hoa hồng lên đến 50% khi giới thiệu khách hàng
     actions:
       - label: Join today
         url: 'http://affiliate.1xslot.live/'
