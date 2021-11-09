@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: 1xSlot
+    title: 1xSlot Affiliate
     content: |
       *   Đăng ký
 
