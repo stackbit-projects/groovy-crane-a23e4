@@ -24,7 +24,7 @@ sections:
     subtitle: KIẾM TIỀN CÙNG CHÚNG TÔI
   - type: grid_section
     grid_items:
-      - title: 2 Days
+      - title: TRẢ THƯỞNG THƯỜNG XUYÊN
         title_align: left
         content: >-
           Attend a two-track and two days conference on all things Jamstack,
