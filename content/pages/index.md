@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: KIẾM TIỀNCÙNG CHÚNG TÔI
+    title: KIẾM TIỀN CÙNG CHÚNG TÔI
     subtitle: >-
       Đăng kýGiới thiệu người dùng mới đến 1xSlotsNhận tiền hoa hồng lên đến 45%
       khi giới thiệu khách hàng
