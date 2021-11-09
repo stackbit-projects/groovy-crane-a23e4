@@ -26,9 +26,8 @@ sections:
     grid_items:
       - title: TRẢ THƯỞNG THƯỜNG XUYÊN
         title_align: left
-        content: >-
-          Attend a two-track and two days conference on all things Jamstack,
-          gathering international.
+        content: |
+          Thanh toán hằng tuần từ $50
         content_align: left
         image: images/2-days.svg
         image_alt: Section item 1 icon
